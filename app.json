@@ -1,0 +1,42 @@
+{
+  "id": "1cadfb98-fa9d-48c5-95b3-706e7d7f5b59",
+  "name": "DataArchive2adls",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "1688530c-452c-4b06-8947-ab4bf5b26053",
+      "publisher": "The bc2adls team, Microsoft Denmark",
+      "name": "Azure Data Lake Storage Export",
+      "version": "1.0.0.5"
+    },
+    {
+      "id": "bb36978b-b764-4182-91e9-462338018d8f",
+      "publisher": "Data Archive Modified",
+      "name": "4PS",
+      "version": "19.3.0.1"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}
